@@ -301,10 +301,9 @@ header {
 }
 .resume a:hover {
   cursor: pointer;
-  border: 2px solid #fff;
   transform: scale(1.2);
   opacity: 0.5;
-  color: var(--clr-accent);
+  color: var(--clr-dark);
 }
 
 @media (min-width: 600px) {
